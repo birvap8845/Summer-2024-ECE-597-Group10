@@ -9,4 +9,4 @@
 | Adel Agha     | ML Technique 3: Random Forest             | Random Forest Classifier Research, Jupyter Notebook Setup                             |
 | Zixin Li         | ML Technique 1: Logistic Regression    | Logistic Regression Research                                                          |
 | Summer Liu       | ML Technique 2: SVM                    | SVM Research                                                   
-| Birva Patel      | ML Technique 3: Random Forest          | Random Forest Provided an overvirw
+| Birva Patel      | ML Technique 3: Random Forest          | Random Forest Provided an overview
